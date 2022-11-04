@@ -8,7 +8,7 @@ click==8.1.3
 cryptography==38.0.1
 Flask==2.2.2
 Flask-Migrate==3.1.0
-Flask-SQLAlchemy==3.0.2
+Flask-SQLAlchemy==3.0.2https://github.com/Darren-qu/Python_network_notes/blob/main/requirements.txt
 idna==3.4
 itsdangerous==2.1.2
 Jinja2==3.1.2
